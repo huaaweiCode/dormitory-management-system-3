@@ -1,8 +1,6 @@
 # 宿舍管理系统
 
-扫描下方 ，回复 “**宿舍3** ” ，以获取源码
 
-![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208222303058.png)
 
 ## 1、项目介绍
 
